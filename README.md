@@ -31,7 +31,7 @@ It automates:
 
 ## 🏗️ Solution Architecture
 
-![Architecture]("D:\Olympic-Data-Analysis\ChatGPT Image Jul 13, 2025, 02_03_44 PM.png")
+![Architecture](Architecture.png)
 
 - **Data Factory**: Extracts raw CSV files into Data Lake Gen2.  
 - **Databricks**: Processes, cleans & transforms data using PySpark.  
